@@ -1,7 +1,0 @@
-#忽略python文件
-?.py
-#忽略config配置
-config.txt
-#忽略test目录
-test/
-
